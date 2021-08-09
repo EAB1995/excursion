@@ -5,6 +5,11 @@ h1 {
     color: white;
     text-align: center;
 }
+
+link {
+    color: aquamarine
+}
+
 h2 {
     font-family: "Verdana";
     font-weight: 300;
@@ -20,4 +25,7 @@ h3 {
     color: gray;
     text-align: center;
 }
-html {background-color: black}
+html {
+    background-color: black;
+    text-align: center;
+}
