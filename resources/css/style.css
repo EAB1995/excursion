@@ -7,7 +7,7 @@ h1 {
 }
 
 .link--cta {
-    color: aquamarine
+    color: aquamarine;
 }
 
 h2 {
@@ -18,6 +18,7 @@ h2 {
     text-align: center;
 
 }
+
 h3 {
     font-family: "Verdana";
     font-weight: 300;
@@ -25,10 +26,12 @@ h3 {
     color: gray;
     text-align: center;
 }
+
 html {
     background-color: black;
     text-align: center;
 }
+
 image {
     align-items: center;
 }
